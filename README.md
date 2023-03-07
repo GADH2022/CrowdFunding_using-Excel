@@ -11,9 +11,20 @@ images/image1.png
 
 
 images/image2.png
+![image2](https://user-images.githubusercontent.com/111449865/223518089-146fd40c-004c-425d-a598-2f254173394f.png)
+
 
 images/image3.png
+![image3](https://user-images.githubusercontent.com/111449865/223518150-9ac7acaa-ea4f-4f3d-9b74-dfc441c960e2.png)
+
+
 images/image4.png
+![image4](https://user-images.githubusercontent.com/111449865/223518184-386589f2-eeed-49d2-a033-0d9b6b18c9fb.png)
+
+
 images/image5.png
+![image5](https://user-images.githubusercontent.com/111449865/223518240-0aa7fa57-d68e-475a-9512-e894b6f7e7d7.png)
+
+
 
 						
